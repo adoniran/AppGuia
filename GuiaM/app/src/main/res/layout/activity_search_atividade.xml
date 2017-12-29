@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.adoniran.guiam.SearchAtividade">
+
+
+
+    <EditText
+        android:id="@+id/Searr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textPersonName"
+        android:text="Name" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       android:text="Pesquisar" />
+    <TextView
+        android:layout_height="match_parent"
+        android:id="@+id/resposta"
+        android:textColor="#595959"
+        android:textSize="20sp"
+        android:layout_width="146dp"/>
+</LinearLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/cada"
+        android:title="Cadastre-se"
+        />
+    <item android:id="@+id/log"
+        android:title="Login" />
+    <item android:id="@+id/sss"
+        android:title="Procure por atividade" />
+
+</menu>

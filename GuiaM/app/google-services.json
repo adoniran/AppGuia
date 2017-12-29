@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "866051118031",
+    "firebase_url": "https://guiam-5ec9d.firebaseio.com",
+    "project_id": "guiam-5ec9d",
+    "storage_bucket": "guiam-5ec9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866051118031:android:1c7fbc7831fe3dd5",
+        "android_client_info": {
+          "package_name": "com.example.adoniran.guiam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866051118031-rktc4bslhacvrq0f0k5sjlkjduhomojj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adoniran.guiam",
+            "certificate_hash": "0cfd5bf92e44ffedc4f058e1051b962b98162094"
+          }
+        },
+        {
+          "client_id": "866051118031-102n7hlhka1dk5civk1ipoe2k0eh8n0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0OGuuKRq0rbvJ314y7cIAYwmpuysMQZA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866051118031-102n7hlhka1dk5civk1ipoe2k0eh8n0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
